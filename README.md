@@ -1,5 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refractor
-In this project we are going to refactor the code to meet accessibility standards so that our site is optimized for search engines. 
+In this project code has been refactored to meet accessibility standards. 
+Web accessibility is important to consider so that the site is optimized for search engines, ensures people with diabilities can access websites, and to avoid litigation that can occur when people with disabilities can't access their website.
 ## GitHub Link
 https://github.com/avni0000patel
 ## GitHub Pages Link
