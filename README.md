@@ -4,5 +4,9 @@ In this project code has been refactored to meet accessibility standards. Web ac
 https://github.com/avni0000patel
 ## GitHub Pages Link
 https://avni0000patel.github.io/Code-Refractor/
+## Technologies Used
+HTML - creates the structure of Web pages
+
+CSS - creates the presentation of Web pages
 ## Screenshots
 ![_Users_avnipatel_Desktop_Bootcamp_Challenge01_git-challenge01_index html](https://user-images.githubusercontent.com/104175474/172230749-8afcbf29-dea1-4460-8405-a19328eb5caa.png)
